@@ -1,0 +1,1 @@
+chntpw -u admin SAM
